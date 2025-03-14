@@ -4,3 +4,8 @@
 *aab filter=lfs diff=lfs merge=lfs -text
 *apk filter=lfs diff=lfs merge=lfs -text
 *uexp filter=lfs diff=lfs merge=lfs -text
+*.uexp filter=lfs diff=lfs merge=lfs -text
+*.aab filter=lfs diff=lfs merge=lfs -text
+*.apk filter=lfs diff=lfs merge=lfs -text
+git[[:space:]]lfs[[:space:]]track[[:space:]]*.apk
+git[[:space:]]lfs[[:space:]]track[[:space:]]*.apk filter=lfs diff=lfs merge=lfs -text
