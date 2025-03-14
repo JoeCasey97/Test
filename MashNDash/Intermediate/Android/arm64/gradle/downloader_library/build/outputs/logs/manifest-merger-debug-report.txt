@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from W:\downloader_library\src\main\AndroidManifest.xml:1:1-122
+INJECTED from W:\downloader_library\src\main\AndroidManifest.xml:1:1-122
+INJECTED from W:\downloader_library\src\main\AndroidManifest.xml:1:1-122
+	package
+		INJECTED from W:\downloader_library\src\main\AndroidManifest.xml
+		ADDED from W:\downloader_library\src\main\AndroidManifest.xml:1:1-122
+		INJECTED from W:\downloader_library\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from W:\downloader_library\src\main\AndroidManifest.xml:1:94-119
+	xmlns:android
+		ADDED from W:\downloader_library\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from W:\downloader_library\src\main\AndroidManifest.xml:1:70-93
+uses-sdk
+INJECTED from W:\downloader_library\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from W:\downloader_library\src\main\AndroidManifest.xml
+INJECTED from W:\downloader_library\src\main\AndroidManifest.xml
+INJECTED from W:\downloader_library\src\main\AndroidManifest.xml
+INJECTED from W:\downloader_library\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from W:\downloader_library\src\main\AndroidManifest.xml
+		ADDED from W:\downloader_library\src\main\AndroidManifest.xml
+		INJECTED from W:\downloader_library\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from W:\downloader_library\src\main\AndroidManifest.xml
+		ADDED from W:\downloader_library\src\main\AndroidManifest.xml
+		INJECTED from W:\downloader_library\src\main\AndroidManifest.xml

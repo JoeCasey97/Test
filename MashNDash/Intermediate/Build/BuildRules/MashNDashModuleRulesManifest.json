@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\knock\\OneDrive\\Documents\\MashNDash\\MashNDash\\MashNDash\\MashNDash\\Intermediate\\Source\\MashNDash.Build.cs",
+		"C:\\Users\\knock\\OneDrive\\Documents\\MashNDash\\MashNDash\\MashNDash\\MashNDash\\Intermediate\\Source\\MashNDash.Target.cs",
+		"C:\\Users\\knock\\OneDrive\\Documents\\MashNDash\\MashNDash\\MashNDash\\MashNDash\\Intermediate\\Source\\MashNDashClient.Target.cs",
+		"C:\\Users\\knock\\OneDrive\\Documents\\MashNDash\\MashNDash\\MashNDash\\MashNDash\\Intermediate\\Source\\MashNDashEditor.Target.cs",
+		"C:\\Users\\knock\\OneDrive\\Documents\\MashNDash\\MashNDash\\MashNDash\\MashNDash\\Intermediate\\Source\\MashNDashServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

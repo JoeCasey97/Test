@@ -1,0 +1,334 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "6762460415EBCC6F7329D10F7F5B4BEABA17AC6E",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "1EF491043E2CD3CE128E05DB91632C64F680ECF1",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "C38391151F68A63DD5080B9F75D50107ACF5FF82",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9E8161178A5B3405CCCAF85F8909B9F26814C689",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "2CC9AB18868CA88034A5322F4D35F4E2C929628C",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9081D01C404688FF5F88EA8B940E60FCFECB236D",
+			"Assets": [
+				"/Game/Materials/M_Flame",
+				"/Game/Materials/M_Flame_2"
+			]
+		},
+		{
+			"ShaderMapHash": "14B54A230E9BED1EB53208AE0B5C462D7E6E18E4",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AFDAAD2693A171248BA3FD7FE7753311072F6F97",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "615F962F1AC111B93126F99CE19A25AD6B04E590",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "5C9BC031806CCA4A727D705EA9698BC3BF205ECB",
+			"Assets": [
+				"/Game/Materials/M_Wheel"
+			]
+		},
+		{
+			"ShaderMapHash": "38EE40324647920DBF2B9DBC2E7EC8F43FB44D21",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E8FDCD392ABE6C8EC8AEFE90F6470EB9FB46AD16",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "0263E33A858420EDFB99478DFFBEB9737DCF54E2",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "AA59F33A85DDA3C3C40B462785B0EBB30897ED69",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "14900F3ED33C688AE1D6B1CD5E347939BB12F625",
+			"Assets": [
+				"/Game/Materials/M_CarLogos"
+			]
+		},
+		{
+			"ShaderMapHash": "E89CFA42067E90E8CBDD0B2160C0D0A5433D6FA2",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "306A78440038D7BA4C2F908BFA6885BB3343B9AC",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "E832DB4538874FB45170EC8CD3F0C6132E1593C4",
+			"Assets": [
+				"/Game/Materials/M_VaporWaveFloor"
+			]
+		},
+		{
+			"ShaderMapHash": "71B1BC48CFF230086049E35A3DBD934F55ECEB76",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "45094C50B5B31E2AAF5AC8744074FAA1BD8CFBB4",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BABC9E5302241DB533CE135CA2B176874CE466F5",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A226FE5608266BD253E78D8185913A99CFD0451A",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "3895715DCFDEA5CF00FB83E61158272FE0BB3FF4",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "FE3AAD690F1E4B33FB366AE320FD9253FA0C1003",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "82C3586DFEFE3426D31AFCFDBF5784E2C1CEBA0E",
+			"Assets": [
+				"/Game/Textures/CarBody/M_CarBody_VW"
+			]
+		},
+		{
+			"ShaderMapHash": "FF83736F09CD3A795C81313777376BD464A8C452",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "96E1A6703584F73BE4890EE819065212391B1471",
+			"Assets": [
+				"/Game/Materials/M_CarBody_2"
+			]
+		},
+		{
+			"ShaderMapHash": "6556A07280B2A80395F26CC4F3A6F7D7F3675AC6",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultRIbbonMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4EE56B7537EF2758BD36B63DB61C7BA9B8B56C07",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E2D6CF759926F9800E078849427A03D09B1CD983",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "C5FEE57764DCE1728F30778638485EC78AFE7467",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "5C2CFF80FB4A7DC2D7562B55977769F6D1E4EADA",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "6BF15388C5BA0B8F29407448EE29D85C50E05EFD",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "BECEEE8941ED930E182AEAD3D080FFB211771047",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "FA7B428E1FF75EA420801187BC5F7FEFE27CCC46",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "ACFD4D93BFAE8F221C0473D4185BD31128C2B863",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DCC9029AA97A8563C37B4DD859A72F771AFAB61E",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D313DDA0D09F3ADB05B1B87BEF9598E51013C1CE",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "D404E5A4E3035AE7E6770DF512F0029628DDA2BB",
+			"Assets": [
+				"/Game/Materials/M_CarBody_3"
+			]
+		},
+		{
+			"ShaderMapHash": "A06702AB5163948B60F7E536E42A523D38B4C640",
+			"Assets": [
+				"/Game/Materials/M_TrackCurved",
+				"/Game/Materials/M_TrackStraightGlow"
+			]
+		},
+		{
+			"ShaderMapHash": "D0C535AFEEB26688C1B43770C7F851ACCE8AB0DD",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "9328F4AF4CEAF83D62D2FFFD53EC3497E3531BA0",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "35D30EB6940C29CB3E02F858742FF5A0BC9CA876",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "40C3FBC2ABC0209DFFEE847FEFCF2211B0D65F3F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0480ACCE09F275F814A6376B859A4D15A9D70A72",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "4B8031D41763706E6C4048B896E6B4543DE0D0C3",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8D47BED47DCFC35A2CA344724BDEE2C491C4E045",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "883960D7B69F01143F4D3F37EA97D83BD0C72B22",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9E5491E4B73933E02621D655953A6D13CA124340",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B30391E889E801C50361344C0906FEF6608B981C",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial",
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "C37062E9CB25AF6D91E371A570213427E83E0966",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "25D72BF3413EE2288D92D8B3FBB2D5013D29D039",
+			"Assets": [
+				"/Game/Materials/M_CarBody"
+			]
+		},
+		{
+			"ShaderMapHash": "66E8ABF580DEAEDB32F58339DBCB6974854AD843",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E8DADCFAE171500DAADEE5B26C8D4356FED405E9",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		}
+	]
+}

@@ -1,0 +1,4 @@
+com.YourCompany.MashNDash
+44
+1.0
+name='com.epicgames.unreal.GameActivity.AppType' value=''

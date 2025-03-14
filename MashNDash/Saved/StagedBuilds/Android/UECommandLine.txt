@@ -1,0 +1,1 @@
+../../../MashNDash/MashNDash.uproject /Game/Levels/L_MashNDash_1 -Messaging -SessionId=80B61BE943C2C7FFF0926EB0B7732427 -SessionOwner="20418771" -SessionName="Launch On Device"
